@@ -1,6 +1,6 @@
 # Custom BLDC Motor Design
 
-A custom **16-slot, 8-pole Brushless DC (BLDC) motor** designed and developed as part of an electrical engineering coursework project. The project involved the complete engineering workflow, including motor design, CAD modeling, 3D printing, stator winding, assembly, simulation, and experimental validation.
+A custom **12-slot, 8-pole Brushless DC (BLDC) motor** designed and developed as part of an electrical engineering coursework project. The project involved the complete engineering workflow, including motor design, CAD modeling, 3D printing, stator winding, assembly, simulation, and experimental validation.
 
 ## Overview
 
@@ -8,7 +8,7 @@ The objective of this project was to design and fabricate a functional BLDC moto
 
 ## Features
 
-* Custom 16-slot, 8-pole inner-rotor BLDC motor
+* Custom 12-slot, 8-pole inner-rotor BLDC motor
 * CAD modeling using Onshape
 * 3D-printed stator, rotor, and support components
 * Hand-wound stator coils with Star (Y) connection
@@ -22,7 +22,7 @@ The objective of this project was to design and fabricate a functional BLDC moto
 | ------------------ | ----------------------- |
 | Motor Type         | Brushless DC (BLDC)     |
 | Topology           | Inner Rotor             |
-| Slots              | 16                      |
+| Slots              | 12                      |
 | Poles              | 8                       |
 | Winding Connection | Star (Y)                |
 | Wire Diameter      | 0.5 mm Enamelled Copper |
